@@ -11,4 +11,5 @@
 
 ## Plan dzialania
 1. Nagrac 15-20 rzutow z 3 pozycji (bok,skos,przod) i sprawdzic gdzie najlepiej golym okiem widac czy pila wpada czy nie. Wybieramy jedna najlepsza i przy niej zostajemy.
-2. 
+2. Sprawdzamy jak model sobie poradzi z tymi nagraniami
+3. ...
